@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/learn-css-003/static/css/main.d1b05096.chunk.css",
-    "main.js": "/learn-css-003/static/js/main.ab604e13.chunk.js",
-    "main.js.map": "/learn-css-003/static/js/main.ab604e13.chunk.js.map",
+    "main.css": "/learn-css-003/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/learn-css-003/static/js/main.441b86fd.chunk.js",
+    "main.js.map": "/learn-css-003/static/js/main.441b86fd.chunk.js.map",
     "runtime-main.js": "/learn-css-003/static/js/runtime-main.3555bd14.js",
     "runtime-main.js.map": "/learn-css-003/static/js/runtime-main.3555bd14.js.map",
-    "static/js/2.34d74ee6.chunk.js": "/learn-css-003/static/js/2.34d74ee6.chunk.js",
-    "static/js/2.34d74ee6.chunk.js.map": "/learn-css-003/static/js/2.34d74ee6.chunk.js.map",
+    "static/js/2.d8fb3cf7.chunk.js": "/learn-css-003/static/js/2.d8fb3cf7.chunk.js",
+    "static/js/2.d8fb3cf7.chunk.js.map": "/learn-css-003/static/js/2.d8fb3cf7.chunk.js.map",
     "index.html": "/learn-css-003/index.html",
-    "precache-manifest.0721f1fed82d05e8f7ace3df21de2828.js": "/learn-css-003/precache-manifest.0721f1fed82d05e8f7ace3df21de2828.js",
+    "precache-manifest.f30e165cef09dac25177b73059387980.js": "/learn-css-003/precache-manifest.f30e165cef09dac25177b73059387980.js",
     "service-worker.js": "/learn-css-003/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/learn-css-003/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.34d74ee6.chunk.js.LICENSE.txt": "/learn-css-003/static/js/2.34d74ee6.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/learn-css-003/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5ecd60fb.chunk.css.map": "/learn-css-003/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d8fb3cf7.chunk.js.LICENSE.txt": "/learn-css-003/static/js/2.d8fb3cf7.chunk.js.LICENSE.txt",
+    "static/media/bell.580b9bc9.svg": "/learn-css-003/static/media/bell.580b9bc9.svg",
+    "static/media/dm.9f1d43fc.svg": "/learn-css-003/static/media/dm.9f1d43fc.svg",
+    "static/media/home.6f087f95.svg": "/learn-css-003/static/media/home.6f087f95.svg",
+    "static/media/search.a4e6bfc7.svg": "/learn-css-003/static/media/search.a4e6bfc7.svg",
+    "static/media/setting.7e19eab3.svg": "/learn-css-003/static/media/setting.7e19eab3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3555bd14.js",
-    "static/js/2.34d74ee6.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.ab604e13.chunk.js"
+    "static/js/2.d8fb3cf7.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.441b86fd.chunk.js"
   ]
 }
