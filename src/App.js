@@ -1,26 +1,35 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import styled from 'styled-components';
+import News from './components/pages/News';
+import TopNavigation from './components/molecules/TopNavigation';
 
-function App() {
+const App = styled.div`
+height: 1082.67px;
+width: 500px;
+`;
+
+const Header = styled.header`
+width: 100%;
+`;
+
+const Content = styled.div`
+width: 100%;
+`;
+
+const Footer = styled.footer`
+width: 100%;
+`;
+
+export default () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <App>
+      <Header>
+        <TopNavigation></TopNavigation>
+      </Header>
+      <Content>
+        <News></News>
+      </Content>
+      <Footer></Footer>
+    </App>
   );
 }
-
-export default App;
