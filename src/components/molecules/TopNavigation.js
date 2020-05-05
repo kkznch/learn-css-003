@@ -6,7 +6,7 @@ import { ReactComponent as SettingSvg } from '../../assets/images/setting.svg';
 
 const Wrapper = styled.div`
 background-color: #18222c;
-height: 3.8rem;
+height: 100%;
 width: 100%;
 `;
 
@@ -29,7 +29,7 @@ width: 100%;
 
 const Center = styled.div`
 display: flex;
-flex: 4;
+flex: 5;
 align-items: center;
 justify-content: center;
 height: 100%;
@@ -48,8 +48,8 @@ width: 100%;
 const MeIcon = styled.img`
 border-radius: 50%;
 object-fit: contain;
-height: 3.2rem;
-width: 3.2rem;
+height: 2.2rem;
+width: 2.2rem;
 `;
 
 const SearchBar = styled.div`
@@ -59,15 +59,15 @@ flex: auto;
 justify-content: center;
 align-items: center;
 border-radius: 24px;
-height: 80%;
+height: 2.4rem;
 width: 100%;
 `;
 
 const SearchIcon = styled(SearchSvg)`
 fill: #697a86;
 object-fit: contain;
-height: 1.6rem;
-width: 1.6rem;
+height: 1rem;
+width: 1rem;
 `;
 
 const SearchInput = styled.input`
@@ -75,9 +75,9 @@ background-color: #10171e;
 color: white;
 margin-left: 0.6rem;
 border: none;
-font-size: 1.4rem;
+font-size: 1.2rem;
 height: 2rem;
-width: 10rem;
+width: 8rem;
 `;
 
 const searchPlaceholder = 'キーワード検索';
@@ -85,8 +85,8 @@ const searchPlaceholder = 'キーワード検索';
 const SettingIcon = styled(SettingSvg)`
 fill: #1e92da;
 object-fit: contain;
-height: 2rem;
-width: 2rem;
+height: 1.6rem;
+width: 1.6rem;
 `;
 
 export default () => {
